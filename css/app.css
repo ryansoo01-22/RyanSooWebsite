@@ -30,6 +30,9 @@ nav {
         color: lightblue;
         margin-bottom: 10px;
     }
+    nav ul li a:visited {
+    color: darkblue;
+}
 
 section {
     flex: 1;
